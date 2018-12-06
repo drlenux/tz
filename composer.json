@@ -1,0 +1,18 @@
+{
+    "name": "drlenux/tz",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bielokudrenko Oleksii",
+            "email": "oleksii.bielokudrenko@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "DrLenux\\Helpers\\CSV\\": "CSVHelpers/"
+        }
+    }
+}
