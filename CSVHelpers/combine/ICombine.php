@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace DrLenux\Helpers\CSV\combine;
 
 use DrLenux\Helpers\CSV\core\Params;
